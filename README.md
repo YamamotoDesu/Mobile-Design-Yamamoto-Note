@@ -13,6 +13,7 @@
 
 <img width="585" alt="スクリーンショット 2023-02-07 21 23 25" src="https://user-images.githubusercontent.com/47273077/217243903-68ed74e8-e13a-43d9-92f2-808553000118.png">
 
+<img width="588" alt="スクリーンショット 2023-02-07 21 31 57" src="https://user-images.githubusercontent.com/47273077/217245578-b68a3cd8-2f01-4763-a0cc-991781abb308.png">
 
 ## Android
 <img width="655" alt="スクリーンショット 2023-02-07 21 04 56" src="https://user-images.githubusercontent.com/47273077/217240257-eb75e214-2620-4717-9b9f-9150197a4131.png">
